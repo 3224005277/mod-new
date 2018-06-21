@@ -18,11 +18,15 @@ the mod video's url of youtube
 
 * 
 
+this mod screenshot
+
+* ![](https://github.com/Carl11111/modz/blob/master/com.modz.dr2.play/screenshot/modz.jpg)
+
 
 ## About
 
 this modz is game assist about com.pikpok.dr2.play
 
-## What's New in Version ""
+## What's New in Version
 
 * support game version 1.8.3(10090) 
