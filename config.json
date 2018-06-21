@@ -1,0 +1,163 @@
+{
+
+	"author": "Carl11111",
+	"id": "Carl11111-10005",
+	"introduce": "Independent game!",
+	"modzList": [{
+		"modz": "https://github.com/Carl11111/modz/raw/master/com.modz.PartyHardGO/com.modz.PartyHardGO.modz",
+		"readme": "https://github.com/Carl11111/modz/raw/master/com.modz.PartyHardGO/README.md",
+		"desc": "Reduce the speed of people,Kill the police!Perfect!",
+		"name": "i'm killer",
+		"pkgName": "com.modz.PartyHardGO",
+		"versionCode": 18,
+		"versionName": "1.0.18",
+		"target": "com.tinybuild.PartyHardGO",
+		"support": "7",
+		"gameName": "Party Hard Go",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 18,
+			"versionName": "1.0.18",
+			"whatsNew": "support game version (7)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Carl11111/modz/raw/master/com.modz.PartyHardGO/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.tinybuild.PartyHardGO"
+		]
+	}, {
+		"modz": "https://github.com/Carl11111/modz/raw/master/com.modz.beholder/com.modz.beholder.modz",
+		"readme": "https://github.com/Carl11111/modz/raw/master/com.modz.beholder/README.md",
+		"desc": "i have enough money!",
+		"name": "rich man",
+		"pkgName": "com.modz.beholder",
+		"versionCode": 10,
+		"versionName": "1.0.10",
+		"target": "com.creativemobile.beholder",
+		"support": "190",
+		"gameName": "Beholder",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 10,
+			"versionName": "1.0.10",
+			"whatsNew": "support game version (190)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Carl11111/modz/raw/master/com.modz.beholder/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.creativemobile.beholder"
+		]
+	}, {
+		"modz": "https://github.com/Carl11111/modz/raw/master/com.modz.Dandara/com.modz.Dandara.modz",
+		"readme": "https://github.com/Carl11111/modz/raw/master/com.modz.Dandara/README.md",
+		"desc": "Invincible!Damage!salt!oh yeah!",
+		"name": "i'm adventurer",
+		"pkgName": "com.modz.Dandara",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.rawfury.longhathouse.Dandara",
+		"support": "23",
+		"gameName": "Dandara",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"versionName": "1.0.1",
+			"whatsNew": "support game version 0.23(23)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Carl11111/modz/raw/master/com.modz.Dandara/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.rawfury.longhathouse.Dandara"
+		]
+	}, {
+		"modz": "https://github.com/Carl11111/modz/raw/master/com.modz.dr2.play/com.modz.dr2.play.modz",
+		"readme": "https://github.com/Carl11111/modz/raw/master/com.modz.dr2.play/README.md",
+		"desc": "i have infinity Gold,Silver and Energy,unlimited reloads,Don't be afraid!",
+		"name": "Zombie Massacre!",
+		"pkgName": "com.modz.dr2.play",
+		"versionCode": 22,
+		"versionName": "1.0.22",
+		"target": "com.pikpok.dr2.play",
+		"support": "*",
+		"gameName": "Into the Dead 2",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 22,
+			"versionName": "1.0.22",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Carl11111/modz/raw/master/com.modz.dr2.play/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.pikpok.dr2.play"
+		]
+	}, {
+		"modz": "https://github.com/Carl11111/modz/raw/master/com.modz.sm2/com.modz.sm2.modz",
+		"readme": "https://github.com/Carl11111/modz/raw/master/com.modz.sm2/README.md",
+		"desc": "Invincible,unlimited reloads,double Moving speed,and Premium,weapons,map,all unlocked,It's all you want.",
+		"name": "i'm marshals",
+		"pkgName": "com.modz.sm2",
+		"versionCode": 8,
+		"versionName": "1.0.8",
+		"target": "com.pixelbite.sm2",
+		"support": "151",
+		"gameName": "Space Marshals 2",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 8,
+			"versionName": "1.0.8",
+			"whatsNew": "support game version (151)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Carl11111/modz/raw/master/com.modz.sm2/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.pixelbite.sm2"
+		]
+	}, {
+		"modz": "https://github.com/Carl11111/modz/raw/master/com.modz.SkyForceReloaded2016/com.modz.SkyForceReloaded2016.modz",
+		"readme": "https://github.com/Carl11111/modz/raw/master/com.modz.SkyForceReloaded2016/README.md",
+		"desc": "main cannon,wing cannons,missiles and magnet power*10,Invincible,infinity laser,unlock all stage,add 10000 stars,That's great!",
+		"name": "shoot them!",
+		"pkgName": "com.modz.SkyForceReloaded2016",
+		"versionCode": 11,
+		"versionName": "1.0.11",
+		"target": "pl.idreams.SkyForceReloaded2016",
+		"support": "*",
+		"gameName": "Sky Force Reloaded",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 11,
+			"versionName": "1.0.11",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Carl11111/modz/raw/master/com.modz.SkyForceReloaded2016/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=pl.idreams.SkyForceReloaded2016"
+		]
+	}]
+}
