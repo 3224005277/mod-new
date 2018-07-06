@@ -159,5 +159,31 @@
 		"gameDownloadUrl": [
 			"https://play.google.com/store/apps/details?id=pl.idreams.SkyForceReloaded2016"
 		]
+	},{
+		"modz": "https://github.com/Carl11111/modz/raw/master/com.modz.doorkickers/com.modz.doorkickers.modz",
+		"readme": "https://github.com/Carl11111/modz/raw/master/com.modz.doorkickers/README.md",
+		"desc": "infinity Roster",
+		"name": "rich man",
+		"pkgName": "com.modz.doorkickers",
+		"versionCode": 5,
+		"versionName": "1.0.5",
+		"target": "com.khg.doorkickers",
+		"support": "*",
+		"gameName": "Door Kickers",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 5,
+			"versionName": "1.0.5",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Carl11111/modz/raw/master/com.modz.doorkickers/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.khg.doorkickers"
+		]
 	}]
 }
