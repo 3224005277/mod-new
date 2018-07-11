@@ -139,15 +139,15 @@
 		"desc": "main cannon,wing cannons,missiles and magnet power*10,Invincible,infinity laser,unlock all stage,add 10000 stars,That's great!",
 		"name": "shoot them!",
 		"pkgName": "com.modz.SkyForceReloaded2016",
-		"versionCode": 11,
-		"versionName": "1.0.11",
+		"versionCode": 12,
+		"versionName": "1.0.12",
 		"target": "pl.idreams.SkyForceReloaded2016",
 		"support": "*",
 		"gameName": "Sky Force Reloaded",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 11,
-			"versionName": "1.0.11",
+			"versionCode": 12,
+			"versionName": "1.0.12",
 			"whatsNew": "support game version (*)"
 		}],
 		"screenshotUrl": [
