@@ -55,7 +55,7 @@ mod下载链接
 https://wwm.lanzouy.com/igsPn0b3pqde
 
 游戏下载链接
-http://wscdn.ggzhushou.cn/ggziyuan3/202209/0902/%E7%8E%B0%E4%BB%A3%E6%88%98%E8%88%B0%EF%BC%9A%E5%9C%A8%E7%BA%BF%E6%B5%B7%E6%88%98.gazip
+https://play.google.com/store/apps/details?id=com.Shooter.ModernWarships
 
 
 22年8月--伊洛纳--uc版
